@@ -1,6 +1,6 @@
 # DataStructure
 ## Content 
-### 1: Arrays
+### 1: Array
 ### 2: Linked List
-### 3: Stacks (Using Arrays and LinkedList)
-### 4: Queues (Using Arrays and LinkedList)
+### 3: Stack (Using Array and LinkedList)
+### 4: Queue (Using Array and LinkedList)
