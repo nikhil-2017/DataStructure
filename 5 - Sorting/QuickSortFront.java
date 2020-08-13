@@ -20,9 +20,11 @@ public class QuickSortFront {
             }
         }
 
-        tmp = array[i];
-        array[i] = array[low];
-        array[low] = tmp;
+        if (low!=i) {
+            tmp = array[i];
+            array[i] = array[low];
+            array[low] = tmp;
+        }
 
         return i;
     }
