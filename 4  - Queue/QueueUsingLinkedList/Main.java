@@ -53,10 +53,10 @@ public class Main {
     }
 
     public static void displayOption() {
-        System.out.println("Stack Operations\n" +
+        System.out.println("Queue Operations\n" +
                 "0: display options\n" +
-                "1: Push\n" +
-                "2: Pop\n" +
+                "1: Enqueue\n" +
+                "2: Dequeue\n" +
                 "3: Peek\n" +
                 "4: Show\n" +
                 "5: Size\n" +
