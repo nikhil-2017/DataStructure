@@ -17,7 +17,6 @@ public class CircularLinkedList {
         newNode.next = head;
     }
 
-//    TODO: deleteEnd is not work properly
     public int deleteEnd() {
         Node node = head;
         int delNode;
