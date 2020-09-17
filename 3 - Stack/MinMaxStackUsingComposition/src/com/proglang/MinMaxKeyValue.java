@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class MinMaxKeyValue {
 
-    // O(1) space ~ O(1)
+    // O(2) space ~ O(1)
     private int min;
     private int max;
 
