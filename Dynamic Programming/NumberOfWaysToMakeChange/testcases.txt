@@ -1,0 +1,7 @@
+10        
+1 5 10 25
+# output: 4
+
+7
+2 4
+# output: -1 (Not valid coins to make n)
